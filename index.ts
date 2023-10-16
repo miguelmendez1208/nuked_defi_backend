@@ -24,7 +24,7 @@ const data2 = [
     available: 12,
     deposited: 4,
     tvl: 5292,
-    abi: "0xC92E8bdf79f0507f65a392b0ab4667716BFE0110"
+    abi: "0x3a51269E0707A3416044bad5066858A12198fCf5"
   },
   {
     id: 2,
@@ -33,7 +33,7 @@ const data2 = [
     available: 10,
     deposited: 14.2,
     tvl: 152,
-    abi: "0xC92E8bdf79f0507f65a392b0ab4667716BFE0110"
+    abi: "0xAD2f9A55518Dba12E8AB069502820923351667C5"
   }
 ];
 
