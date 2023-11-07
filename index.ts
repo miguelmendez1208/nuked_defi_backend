@@ -56,7 +56,7 @@ const server = Bun.serve({
   port: 3080,
   fetch(req) {
     console.log("New connection!");
-    const jsonResponse = JSON.stringify(data3);
+    const jsonResponse = JSON.stringify(data2);
     return new Response(jsonResponse, {
       headers: { "Content-Type": "application/json" },
     });
